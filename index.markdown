@@ -9,7 +9,7 @@ Hello!
 
 I'm Jason, and I am a recent graduate of the University of Colorado Boulder with a B.S. in Computer Science. 
 
-This here is my WIP personal portfolio website, If you happen to have made it here, I'm not sure how, but welcome!
+This here is my WIP personal portfolio website, welcome! It's a bit barren at the moment.
 
 I am passionate about software development, roller hockey, dancing, and tea :) 
 
